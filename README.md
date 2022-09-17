@@ -2,7 +2,7 @@
 
 🙋🏾‍♀️Meu nome é Amanda Gomes, eu tenho 18 anos e sou de Santo André - São Paulo! <br>
 🎓Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul - USCS <br>
-💻Tenho interesse em Front-end, Atuamente sou estagiária Front-end, onde utilizo as Tyescript e Angular no meu dia a dia. Aqui você pode encontrar alguns projetos que eu já realizei.
+💻Tenho interesse em Front-end, Atuamente sou estagiária Front-end, onde utilizo as Typescript e Angular no meu dia a dia. Aqui você pode encontrar alguns projetos que eu já realizei.
 <!--
 **AmandaGomesFe/AmandaGomesFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

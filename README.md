@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil! 👋
 
-🙋🏾‍♀️Meu nome é Amanda Gomes, eu tenho 20 anos e sou de Santo André - São Paulo! <br>
+🙋🏾‍♀️Meu nome é Amanda Gomes, eu tenho 22 anos e sou de Santo André - São Paulo! <br>
 🎓Sou formada em Análise e Desenvolvimento de Sistema <br>
 💻Tenho interesse em Front-end, Atuamente sou Desenvolvedora Front-end Junior, onde utilizo as Typescript e Angular no meu dia a dia. Aqui você pode encontrar alguns projetos que eu já realizei.
 <!--

@@ -1,19 +1,24 @@
-### Olá, bem vindo ao meu perfil! 👋
+# Olá, eu sou a Amanda Gomes! 👋
 
-🙋🏾‍♀️Meu nome é Amanda Gomes, eu tenho 22 anos e sou de Santo André - São Paulo! <br>
-🎓Sou formada em Análise e Desenvolvimento de Sistema <br>
-💻Tenho interesse em Front-end, Atuamente sou Desenvolvedora Front-end Junior, onde utilizo as Typescript e Angular no meu dia a dia. Aqui você pode encontrar alguns projetos que eu já realizei.
-<!--
-**AmandaGomesFe/AmandaGomesFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Full Stack em evolução. Atualmente, foco minha especialização no ecossistema **Java + Angular**.
 
-Here are some ideas to get you started:
+### 💼 Sobre mim
+- 🏢 Atualmente trabalhando como **Desenvolvedora Front-end Junior** (Angular, TypeScript, React e Next.js).
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas**.
+- 🎯 Objetivo 2026: Consolidar-me como Full Stack de alto nível, unindo a organização do Java com a performance do Angular moderno.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Stack Principal
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📈 Conhecimentos em Expansão
+- **Back-end:** Spring Boot, JPA/Hibernate, Spring Security, REST APIs.
+- **Front-end:** Angular (Signals, Standalone Components), Next.js, Tailwind CSS.
+- **Ferramentas:** Git/GitHub, Postman, Docker.
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandagomesf/)

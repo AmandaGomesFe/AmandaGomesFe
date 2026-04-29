@@ -3,7 +3,7 @@
 Desenvolvedora Full Stack em evolução. Atualmente, foco minha especialização no ecossistema **Java + Angular**.
 
 ### 💼 Sobre mim
-- 🏢 Atualmente trabalhando como **Desenvolvedora Front-end Junior** (Angular, TypeScript, React e Next.js).
+- 🏢 Atualmente trabalhando como **Desenvolvedora Full Stack Pleno** (Angular, TypeScript, Java, React e Next.js).
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas**.
 - 🎯 Objetivo 2026: Consolidar-me como Full Stack de alto nível, unindo a organização do Java com a performance do Angular moderno.
 
